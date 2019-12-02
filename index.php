@@ -9,6 +9,7 @@
 </head>
 
 <body>
+    <p>Lorem</p>
 
 </body>
 
